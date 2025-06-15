@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @AjmalKBangash
 - 👀 I’m a Software, DevOps and a Cloud Engineer.
-- 📫 There is a tough and a comprehensive list of technologies and tools that i have experienced but few of them is mentioned here Linux, Javascript, Python, React, Django, PostgreSQL, Nginx, Redis, Docker, Kubernetes, Openshift, Jenkins, Terraform, Ansible, AWS etc
+- 📫 There is a tough and a comprehensive list of technologies and tools that i have experienced and a list can be found here "Linux, Javascript, Python, React, Django, PostgreSQL, Nginx, Redis, Docker, Kubernetes, Openshift, Jenkins, Terraform, Ansible, AWS-EKS" etc
 - 🌱 I’m currently pursuing CKA and CKS certifications for k8s deployments through Openshift, AWS EKS and Rancher for fully pledged and secure Infrastructure.
 - ✨ Today where i am standing, if tomorrow, I will be standing one step ahead.
-- ✨ I always think that i am not having a single drop of water from the ocean of knowledge but i Love to have one.
+- ✨ I often feel like I don't possess even a single drop from the vast ocean of knowledge — but I deeply desire to have one.
 - 📫 You can reach me out at www.ajmalkhan.online
 - 😄 I am not smart and i will never be but one thing is for sure that i am Young, Energetic, Challenging and Talented
 - ⚡ I Love to Code, Going to GYM and a Morning Walk.
