@@ -4,7 +4,7 @@
 - 🌱 I’m currently pursuing CKA and CKS certifications for k8s deployments through Openshift, AWS EKS and Rancher for fully pledged and secure Infrastructure.
 - ✨ Today where i am standing, if tomorrow, I will be standing one step ahead.
 - ✨ I often feel like I don't possess even a single drop from the vast ocean of knowledge — but I deeply desire to have one.
-- 📫 You can reach me out at www.ajmalkhan.online
+- 📫 You can reach me out at https://ajmal-khan-portfolio.vercel.app
 - 😄 I am not smart and i will never be but one thing is for sure that i am Young, Energetic, Challenging and Talented
 - ⚡ I Love to Code, Going to GYM and a Morning Walk.
 
